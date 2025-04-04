@@ -1,7 +1,6 @@
 
-import 'package:funcoes/functions/calculadora.dart' as funcoes;
-import 'package:funcoes/functions/acumulador.dart' as acumulador;
+// import 'package:funcoes/functions/calculadora.dart' as funcoes;
 
 void main(List<String> arguments) {
-  print('${acumulador}!');
+  print('oi');
 }
