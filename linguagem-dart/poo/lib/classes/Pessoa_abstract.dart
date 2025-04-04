@@ -4,7 +4,7 @@ import '../enum/tipo_notificacao.dart';
 
 abstract class Pessoa {
   String _nome = ""; // propriedade 
-  String _endereco = "";
+  String _endereco = ""; // se começar com _ é privado
   String _email = "";
   String _celular = "";
   String _token = "";

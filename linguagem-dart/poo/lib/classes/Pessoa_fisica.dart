@@ -18,7 +18,7 @@ class PessoaFisica extends Pessoa {
     _cpf = cpf;
   }
 
-  @override
+  @override // sobrescreve o metodo toString da classe pai 
   String toString() {
     return {
       "Nome": getNome(),
